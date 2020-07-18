@@ -1,9 +1,9 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleksagordic/) [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"" />](https://www.youtube.com/c/TheAiEpiphany) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gordicaleksa)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleksagordic/) [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/TheAiEpiphany) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gordicaleksa)
 
 ### Hi! 👋
 
 <p align="center">
-I'm Aleksa! I'm a deep learning engineer in Microsoft and founder of [The AI Epiphany](https://www.youtube.com/c/TheAiEpiphany) - where I'm trying to teach others all about AI.
+I'm Aleksa! I'm a deep learning engineer in Microsoft and founder of The AI Epiphany - where I'm trying to teach others all about AI.
 </p>
 
 <!--
