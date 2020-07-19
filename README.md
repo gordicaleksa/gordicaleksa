@@ -9,7 +9,7 @@ I'm Aleksa! I'm a deep learning engineer in Microsoft and founder of <b>The AI E
 <br>
 
 <a href="https://www.youtube.com/c/TheAiEpiphany" target="_blank">
-  <img src="images/ai_epiphany_banner.jpg" alt="The AI Epiphany banner" width="100%"/>
+  <img src="https://drive.google.com/file/d/1reJ3BcROy7kg17NYzV-ZgHE04TwzM2ZK/view?usp=sharing" alt="The AI Epiphany banner" width="100%"/>
 </a>
 
 <!--
