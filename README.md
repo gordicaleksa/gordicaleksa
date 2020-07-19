@@ -8,11 +8,9 @@ I'm Aleksa! I'm a deep learning engineer in Microsoft and founder of <b>The AI E
 
 <br>
 
-<div align="center">
 <a href="https://www.youtube.com/c/TheAiEpiphany" target="_blank">
-  <img width="100%" src="images/ai_epiphany_banner.jpg" alt="The AI Epiphany banner" />
+  <img src="images/ai_epiphany_banner.jpg" alt="The AI Epiphany banner" width="100%"/>
 </a>
-</div>
 
 <!--
 **gordicaleksa/gordicaleksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
