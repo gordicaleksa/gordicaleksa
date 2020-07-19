@@ -3,8 +3,16 @@
 ### Hi! 👋
 
 <p align="center">
-I'm Aleksa! I'm a deep learning engineer in Microsoft and founder of The AI Epiphany - where I'm trying to teach others all about AI.
+I'm Aleksa! I'm a deep learning engineer in Microsoft and founder of <b>The AI Epiphany</b> - where I'm trying to teach others all about AI.
 </p>
+
+<br>
+
+<div align="center">
+<a href="https://www.youtube.com/c/TheAiEpiphany" target="_blank">
+  <img width="100%" src="images/ai_epiphany_banner.jpg" alt="The AI Epiphany banner" />
+</a>
+</div>
 
 <!--
 **gordicaleksa/gordicaleksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
