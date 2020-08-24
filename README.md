@@ -6,6 +6,10 @@
 I'm Aleksa! I'm a deep learning engineer in Microsoft and founder of <b>The AI Epiphany</b> - where I'm trying to teach others all about AI.
 </p>
 
+
+If you find the content I create useful <b>[consider becoming a Patreon](https://www.patreon.com/theaiepiphany)</b>! Much love. :heart:
+
+
 <br>
 
 <a href="https://www.youtube.com/c/TheAiEpiphany" target="_blank">
