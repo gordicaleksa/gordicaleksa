@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-I'm Aleksa! I'm the founder of <b>The AI Epiphany</b> - where I'm trying to teach others all about AI! (+ I'm an ex-ML engineer at Microsoft)
+I'm Aleksa! I'm a Research Engineer at DeepMind, and founder of <b>The AI Epiphany</b> - where I'm trying to teach others all about AI!
 </p>
 
 
