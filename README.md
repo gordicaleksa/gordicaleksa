@@ -13,7 +13,7 @@ If you find the content I create useful <b>[consider becoming a Patreon](https:/
 <br>
 
 <a href="https://www.youtube.com/c/TheAiEpiphany" target="_blank">
-  <img src="https://github.com/gordicaleksa/gordicaleksa/blob/master/images/ai_epiphany_banner.jpg" alt="The AI Epiphany banner" width="100%"/>
+  <img src="https://github.com/gordicaleksa/gordicaleksa/blob/master/images/ai_epiphany_banner_new.png" alt="The AI Epiphany banner" width="100%"/>
 </a>
 
 <!--
