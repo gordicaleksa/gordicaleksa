@@ -9,6 +9,9 @@ I'm Aleksa! I'm a Research Engineer at DeepMind, and founder of <b>The AI Epipha
 
 If you find the content I create useful <b>[consider becoming a Patreon](https://www.patreon.com/theaiepiphany)</b>! Much love. :heart:
 
+My latest projects ⚙️⚙️⚙️:
+* [Huberman Transcripts](https://www.hubermantranscripts.com/)
+
 
 <br>
 
