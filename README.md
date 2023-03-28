@@ -3,9 +3,12 @@
 <br>
 
 <p align="center">
-I'm Aleksa! I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> YouTube channel - and I'm currently in the process of building my first startup.
+I'm Aleksa! I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> YouTube channel - and I'm currently in the process of building my first startup (still in stealth mode).
 </p>
 
+<p align="center">
+If you're passionate about generative AI do reach out to me! I'm looking for extremely passionate and smart people (with a track record) to reinvent parts of the internet. :) Knowledge of LLMs, multimodal learning (esp. videos), building scalable video platforms, video streaming, and keeping up to date with the latest ML trends is something I'm looking for!
+</p>
 
 If you find the content I create useful <b>[consider becoming a Patreon](https://www.patreon.com/theaiepiphany)</b>! Much love. :heart:
 
