@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-I'm Aleksa! I'm a Research Engineer at DeepMind, and founder of <b>The AI Epiphany</b> - where I'm trying to teach others all about AI!
+I'm Aleksa! I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> YouTube channel - and I'm currently in the process of building my first startup.
 </p>
 
 
