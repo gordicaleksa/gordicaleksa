@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-I'm Aleksa! I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> YouTube channel - and I'm currently in the process of building my first startup - [Ortus](https://www.ortusbuddy.ai/).
+I'm Aleksa! I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> YouTube channel - and I'm currently in the process of building my first startup - [Ortus](https://www.ortusbuddy.ai/)
 </p>
 
 <p align="center">
