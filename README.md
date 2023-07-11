@@ -13,7 +13,7 @@ If you're passionate about generative AI do reach out to me! I'm looking for ext
 If you find the content I create useful <b>[consider becoming a Patreon](https://www.patreon.com/theaiepiphany)</b>! Much love. :heart:
 
 My latest projects ⚙️⚙️⚙️:
-* [Ortus](https://www.ortusbuddy.ai/)
+* [Ortus YouTube AI Buddy](https://www.ortusbuddy.ai/) [from my startup Ortus AI]
 * [Huberman Transcripts](https://www.hubermantranscripts.com/)
 
 
