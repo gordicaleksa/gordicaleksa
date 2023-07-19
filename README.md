@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-I'm Aleksa! I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> YouTube channel - and I'm currently in the process of building my first startup - Ortus AI.
+I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> YouTube channel - and I'm currently in the process of building my first startup - Ortus AI.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ If you're passionate about generative AI do reach out to me! I'm looking for ext
 
 If you find the content I create useful <b>[consider becoming a Patreon](https://www.patreon.com/theaiepiphany)</b>! Much love. :heart:
 
-My latest projects ⚙️⚙️⚙️:
+My latest projects:
 * [Ortus YouTube AI Buddy](https://www.ortusbuddy.ai/) [from my startup Ortus AI]
 * [Huberman Transcripts](https://www.hubermantranscripts.com/)
 
