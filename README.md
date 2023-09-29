@@ -3,17 +3,17 @@
 <br>
 
 <p align="center">
-I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> YouTube channel - and I'm currently in the process of building my first startup - Ortus AI.
+I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup - Ortus AI.
 </p>
 
 <p align="center">
-If you're passionate about generative AI do reach out to me! I'm looking for extremely passionate and smart people (with a track record) to reinvent parts of the internet. :) Knowledge of LLMs, multimodal, training large scale systems and keeping up to date with the latest ML trends is something I'm looking for!
+Latest: Replicating Meta's "no language left behind" machine translation (MT) project. The goal is to create truly open-source checkpoints that can be used for commercial purposes. More broadly - building multilingual MT systems and LLMs.
 </p>
 
-If you find the content I create useful <b>[consider becoming a Patreon](https://www.patreon.com/theaiepiphany)</b>! Much love. :heart:
 
-My latest projects:
-* [Ortus YouTube AI Buddy](https://www.ortusbuddy.ai/) [from my startup Ortus AI]
+
+My older recent projects:
+* [YouTube AI Buddy](https://www.ortusbuddy.ai/)
 * [Huberman Transcripts](https://www.hubermantranscripts.com/)
 
 
