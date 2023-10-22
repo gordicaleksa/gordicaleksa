@@ -7,7 +7,7 @@ I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphan
 </p>
 
 <p align="center">
-Latest: Replicating Meta's "no language left behind" machine translation (MT) project. The goal is to create truly open-source checkpoints that can be used for commercial purposes. More broadly - building multilingual MT systems and LLMs.
+Latest: <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project. The goal is to create truly open-source checkpoints that can be used for commercial purposes. More broadly - building multilingual MT systems and LLMs.
 </p>
 
 
