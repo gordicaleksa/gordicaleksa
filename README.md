@@ -13,6 +13,7 @@ Latest: <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Repl
 
 
 My older recent projects:
+* [Jarvis for images](https://twitter.com/gordic_aleksa/status/1723004221664972819)
 * [YouTube AI Buddy](https://www.ortusbuddy.ai/)
 * [Huberman Transcripts](https://www.hubermantranscripts.com/)
 
