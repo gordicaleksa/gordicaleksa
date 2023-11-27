@@ -3,13 +3,14 @@
 <br>
 
 <p align="center">
-I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup - Ortus AI.
+I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup - Ortus AI. I'm also a proud father of 16 A100s and more diverse children are on their way (H100s).
 </p>
 
 <p align="center">
-Latest: <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project. The goal is to create truly open-source checkpoints that can be used for commercial purposes. More broadly - building multilingual MT systems and LLMs.
+Latest:<br/>
+  * Training a first ever LLM for Croatian, Bosnian, Serbian, Montenegrin langs (<a href="https://www.linkedin.com/feed/update/urn:li:activity:7133414124553711616/">see here</a>)<br/>
+  * <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project
 </p>
-
 
 
 My older recent projects:
