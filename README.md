@@ -8,7 +8,7 @@ I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphan
 
 <p align="center">
 Latest:<br/>
-  * Training a first ever LLM for Croatian, Bosnian, Serbian, Montenegrin langs (<a href="https://www.linkedin.com/feed/update/urn:li:activity:7133414124553711616/">see here</a>)<br/>
+  * YugoGPT - training a first ever 7B LLM for Croatian, Bosnian, Serbian, Montenegrin langs (<a href="https://www.linkedin.com/feed/update/urn:li:activity:7133414124553711616/">see here</a>)<br/>
   * <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project
 </p>
 
