@@ -12,6 +12,8 @@ Latest:<br/>
   * <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project
 </p>
 
+Most recent OSS contributions:
+* [airoboros](https://github.com/jondurbin/airoboros) - synthetic instruction following data generation framework
 
 My older recent projects:
 * [Jarvis for images](https://twitter.com/gordic_aleksa/status/1723004221664972819)
