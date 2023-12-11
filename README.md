@@ -3,12 +3,13 @@
 <br>
 
 <p align="center">
-I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup - Ortus AI. I'm also a proud father of 16 A100s and more diverse children are on their way (H100s).
+I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup. I'm also a proud father of 16 A100s and more diverse children are on their way (H100s).
 </p>
 
-<p align="center">
+<p align="left">
 Latest:<br/>
-  * YugoGPT - training a first ever 7B LLM for Croatian, Bosnian, Serbian, Montenegrin langs (<a href="https://www.linkedin.com/feed/update/urn:li:activity:7133414124553711616/">see here</a>)<br/>
+  * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7133414124553711616/">YugoGPT</a> - training a first ever 7B LLM for Croatian, Bosnian, Serbian, Montenegrin langs<br/>
+  * <a href="https://github.com/gordicaleksa/lm-evaluation-harness-serbian">First Serbian LLM eval</a><br/>
   * <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project
 </p>
 
