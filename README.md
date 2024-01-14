@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup. I'm also a proud father of 16 A100s and more diverse children are on their way (H100s).
+I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup. I'm also a proud father of 16 A100s and 16 H100s.
 </p>
 
 <p align="left">
