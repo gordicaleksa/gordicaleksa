@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-I'm an ex Research Engineer at DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup. I'm also a proud father of 16 A100s and 16 H100s.
+I'm an ex Research Engineer at Google DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup <a href="https://runaai.com/">Runa AI</a>. I'm also a proud father of 16 A100s and 16 H100s (generously sponsored by <a href="https://www.together.ai/">Together AI</a> & <a href="https://console.hyperstack.cloud/?utm_campaign=Influencers&utm_source=Aleksa%20Gordi%C4%87">Hyperstack</a> respectively).
 </p>
 
 <p align="left">
