@@ -16,7 +16,7 @@ Latest:<br/>
 </p>
 
 Most recent OSS contributions:
-* [llmc](https://github.com/karpathy/llm.c) - training LLMs in C/CUDA. :)
+* [llm.c](https://github.com/karpathy/llm.c) - training LLMs in C/CUDA. :)
 * [airoboros](https://github.com/jondurbin/airoboros) - synthetic instruction following data generation framework
 
 My older recent projects:
