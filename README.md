@@ -21,7 +21,7 @@ Most recent OSS contributions:
 
 My older recent projects:
 * [Jarvis for images](https://twitter.com/gordic_aleksa/status/1723004221664972819)
-* [YouTube AI Buddy](https://www.ortusbuddy.ai/)
+* [YouTube AI Buddy](https://www.ortusbuddy.ai/) (removed from Chrome store)
 * [Huberman Transcripts](https://www.hubermantranscripts.com/)
 
 
