@@ -8,20 +8,21 @@ I'm an ex Research Engineer at Google DeepMind & Microsoft, I run the <b>The AI 
 
 <p align="left">
 Latest:<br/>
-  * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7143209223722627072/">YugoGPT</a> - trained SOTA 7B LLM for Croatian, Bosnian, Serbian, Montenegrin langs<br/>
-  * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7173332520757772288/">SlovenianGPT</a> - trained SOTA 7B LLM for Slovenian language<br/>
-  * <a href="https://www.yugochat.com/en">YugoChat - talk to YugoGPT</a><br/>
-  * <a href="https://github.com/gordicaleksa/lm-evaluation-harness-serbian">First Serbian LLM eval</a><br/>
-  * <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project
+  * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a>.
 </p>
 
 Most recent OSS contributions:
-* [llm.c](https://github.com/karpathy/llm.c) - training LLMs in C/CUDA. :)
+* [llm.c](https://github.com/karpathy/llm.c) - training LLMs in C/CUDA :)
 * [airoboros](https://github.com/jondurbin/airoboros) - synthetic instruction following data generation framework
 
 My older recent projects:
+* <a href="https://www.linkedin.com/feed/update/urn:li:activity:7143209223722627072/">YugoGPT</a> - trained SOTA 7B LLM for Croatian, Bosnian, Serbian, Montenegrin langs<br/>
+* <a href="https://www.linkedin.com/feed/update/urn:li:activity:7173332520757772288/">SlovenianGPT</a> - trained SOTA 7B LLM for Slovenian language<br/>
+* <a href="https://www.yugochat.com/en">YugoChat - talk to YugoGPT</a><br/>
+* <a href="https://github.com/gordicaleksa/lm-evaluation-harness-serbian">First Serbian LLM eval</a><br/>
+* <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project
 * [Jarvis for images](https://twitter.com/gordic_aleksa/status/1723004221664972819)
-* [YouTube AI Buddy](https://www.ortusbuddy.ai/) (removed from Chrome store)
+* [YouTube AI Buddy](https://www.youtube.com/watch?v=JTcEzsDms9g) (removed from Chrome store)
 * [Huberman Transcripts](https://www.hubermantranscripts.com/)
 
 
