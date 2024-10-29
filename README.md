@@ -3,11 +3,12 @@
 <br>
 
 <p align="center">
-I'm an ex Research Engineer at Google DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup <a href="https://runaai.com/">Runa AI</a>. I'm also a proud father of 16 A100s and 16 H100s (generously sponsored by <a href="https://www.together.ai/">Together AI</a> & <a href="https://console.hyperstack.cloud/?utm_campaign=Influencers&utm_source=Aleksa%20Gordi%C4%87">Hyperstack</a> respectively).
+I'm an ex Research Engineer at Google DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup (still in stealth). I'm also a proud father of 16 H100s (generously sponsored by <a href="https://console.hyperstack.cloud/?utm_campaign=Influencers&utm_source=Aleksa%20Gordi%C4%87">Hyperstack</a>).
 </p>
 
 <p align="left">
 Latest:<br/>
+  * Check out my Tech Job platform <a href="https://www.crackedengineers.com/">Cracked Engineers</a>!<br/>
   * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a>.
 </p>
 
