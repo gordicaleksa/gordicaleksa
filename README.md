@@ -8,8 +8,8 @@ I'm an ex Research Engineer at Google DeepMind & Microsoft, I run the <b>The AI 
 
 <p align="left">
 Latest:<br/>
-  * Check out my Tech Job platform <a href="https://www.crackedengineers.com/">Cracked Engineers</a>!<br/>
-  * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a>.
+  * Check out my Tech Job platform <a href="https://www.crackedengineers.com/" target="_blank">Cracked Engineers</a>!<br/>
+  * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c" target="_blank">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a>.
 </p>
 
 Most recent OSS contributions:
