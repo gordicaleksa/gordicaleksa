@@ -7,9 +7,10 @@ I'm an ex Research Engineer at Google DeepMind & Microsoft, I run the <b>The AI 
 </p>
 
 <p align="left">
-Latest:<br/>
+Highlights:<br/>
   * Check out my Tech Job platform <a href="https://www.crackedengineers.com/" target="_blank">Cracked Engineers</a>!<br/>
-  * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c" target="_blank">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a>.
+  * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c" target="_blank">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a><br/>
+  * <a href="https://www.hubermantranscripts.com/">Huberman Transcripts</a> - transcripts, chapter/episode level summaries to help you learn faster
 </p>
 
 Most recent OSS contributions:
@@ -24,7 +25,6 @@ My older recent projects:
 * <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project
 * [Jarvis for images](https://twitter.com/gordic_aleksa/status/1723004221664972819)
 * [YouTube AI Buddy](https://www.youtube.com/watch?v=JTcEzsDms9g) (removed from Chrome store)
-* [Huberman Transcripts](https://www.hubermantranscripts.com/)
 
 
 <br>
