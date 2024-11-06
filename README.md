@@ -2,6 +2,9 @@
 
 <br>
 
+Cracked Engineers is now on Product Hunt - if you can go and leave me some feedback there! :)<br/><br/>
+<a href="https://www.producthunt.com/posts/cracked-engineers?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cracked&#0045;engineers" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=579287&theme=light" alt="Cracked&#0032;Engineers - Hire&#0032;great&#0032;AI&#0047;tech&#0032;talent&#0032;and&#0032;find&#0032;great&#0032;AI&#0047;tech&#0032;job&#0032;offers | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 <p align="center">
 I'm an ex Research Engineer at Google DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup (still in stealth). I'm also a proud father of 16 H100s (generously sponsored by <a href="https://console.hyperstack.cloud/?utm_campaign=Influencers&utm_source=Aleksa%20Gordi%C4%87">Hyperstack</a>).
 </p>
