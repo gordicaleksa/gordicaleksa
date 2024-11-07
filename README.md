@@ -1,10 +1,5 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleksagordic/) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/gordic_aleksa) [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/TheAiEpiphany) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/peBrCpheKE) [<img src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://gordicaleksa.com/) [<img src="https://img.shields.io/badge/ai_newsletter-%23ff6819.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://aiepiphany.substack.com/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gordicaleksa)
 
-<br>
-
-Cracked Engineers is now on Product Hunt - if you can go and leave me some feedback there! :)<br/><br/>
-<a href="https://www.producthunt.com/posts/cracked-engineers?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cracked&#0045;engineers" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=579287&theme=light" alt="Cracked&#0032;Engineers - Hire&#0032;great&#0032;AI&#0047;tech&#0032;talent&#0032;and&#0032;find&#0032;great&#0032;AI&#0047;tech&#0032;job&#0032;offers | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
 <p align="center">
 I'm an ex Research Engineer at Google DeepMind & Microsoft, I run the <b>The AI Epiphany</b> community - and I'm currently in the process of building my first startup (still in stealth). I'm also a proud father of 16 H100s (generously sponsored by <a href="https://console.hyperstack.cloud/?utm_campaign=Influencers&utm_source=Aleksa%20Gordi%C4%87">Hyperstack</a>).
 </p>
