@@ -6,7 +6,7 @@ I'm an ex Research Engineer at Google DeepMind & Microsoft, I run the <b>The AI 
 
 <p align="left">
 Highlights:<br/>
-  * Check out my Tech Job platform <a href="https://www.crackedengineers.com/" target="_blank">Cracked Engineers</a>!<br/>
+  * Check out my AI/tech jobs platform <a href="https://www.crackedengineers.com/" target="_blank">Cracked Engineers</a>!<br/>
   * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c" target="_blank">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a><br/>
   * <a href="https://www.hubermantranscripts.com/">Huberman Transcripts</a> - transcripts, chapter/episode level summaries to help you learn faster
 </p>
