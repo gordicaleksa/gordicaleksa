@@ -6,9 +6,7 @@ I'm an ex Research Engineer at Google DeepMind & Microsoft, I run the <b>The AI 
 
 <p align="left">
 Highlights:<br/>
-  * Check out my AI/tech jobs platform <a href="https://www.crackedengineers.com/" target="_blank">Cracked Engineers</a>!<br/>
   * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c" target="_blank">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a><br/>
-  * <a href="https://www.hubermantranscripts.com/">Huberman Transcripts</a> - transcripts, chapter/episode level summaries to help you learn faster
 </p>
 
 Most recent OSS contributions:
@@ -16,6 +14,8 @@ Most recent OSS contributions:
 * [airoboros](https://github.com/jondurbin/airoboros) - synthetic instruction following data generation framework
 
 My older recent projects:
+  * AI/tech jobs platform <a href="https://www.crackedengineers.com/" target="_blank">Cracked Engineers</a> (sunset, not enough interest)<br/>
+  * <a href="https://www.hubermantranscripts.com/">Huberman Transcripts</a> - transcripts, chapter/episode level summaries to help you learn faster (had to sunset it due to a <a href="https://x.com/gordic_aleksa/status/1857042687028785397">legal notice</a>)
 * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7143209223722627072/">YugoGPT</a> - trained SOTA 7B LLM for Croatian, Bosnian, Serbian, Montenegrin langs<br/>
 * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7173332520757772288/">SlovenianGPT</a> - trained SOTA 7B LLM for Slovenian language<br/>
 * <a href="https://www.yugochat.com/en">YugoChat - talk to YugoGPT</a><br/>
