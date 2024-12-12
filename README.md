@@ -14,7 +14,7 @@ Most recent OSS contributions:
 * [airoboros](https://github.com/jondurbin/airoboros) - synthetic instruction following data generation framework
 
 My older recent projects:
-  * AI/tech jobs platform <a href="https://www.crackedengineers.com/" target="_blank">Cracked Engineers</a> (sunset, not enough interest)<br/>
+  * AI/tech jobs platform <a href="https://www.crackedengineers.com/" target="_blank">Cracked Engineers</a><br/>
   * <a href="https://www.hubermantranscripts.com/">Huberman Transcripts</a> - transcripts, chapter/episode level summaries to help you learn faster (had to sunset it due to a <a href="https://x.com/gordic_aleksa/status/1857042687028785397">legal notice</a>)
 * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7143209223722627072/">YugoGPT</a> - trained SOTA 7B LLM for Croatian, Bosnian, Serbian, Montenegrin langs<br/>
 * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7173332520757772288/">SlovenianGPT</a> - trained SOTA 7B LLM for Slovenian language<br/>
