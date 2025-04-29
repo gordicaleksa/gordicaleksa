@@ -6,6 +6,7 @@ I'm an ex Research Engineer at Google DeepMind & Microsoft. I run the 'The AI Ep
 </p>
 
 <p align="left">
+  More on P-1 AI:<br/>
  * <a href="https://fortune.com/article/startup-ai-funding-starship-google-deepmind-airbus-veterans/">Exclusive: What If AI could design a jet engine—or even a starship? Google DeepMind and Airbus veterans just raised $23M with an eye on that future<a/><br/>
  * <a href="https://www.businesswire.com/news/home/20250425073932/en/P-1-AI-Comes-Out-of-Stealth-Aims-to-Build-Engineering-AGI-for-Physical-Systems">P-1 AI Comes Out of Stealth, Aims to Build Engineering AGI for Physical Systems</a>
 </p>
