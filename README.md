@@ -2,7 +2,7 @@
 
 <p align="center">
 Cofounder / Head of AI at <a href="https://p-1.ai/">P-1 AI</a> ( <a href="https://p-1.ai/">i'm hiring</a>, join us to help us build Dyson spheres)<br/><br/>
-I'm an ex Research Engineer at Google DeepMind & Microsoft. I run the 'The AI Epiphany' community. I'm also a proud father of 16 H100s (generously sponsored by <a href="https://console.hyperstack.cloud/?utm_campaign=Influencers&utm_source=Aleksa%20Gordi%C4%87">Hyperstack</a>).
+I'm an ex Research Engineer at Google DeepMind & Microsoft. I run the 'The AI Epiphany' community. I'm also a proud father of 16 H100s (generously sponsored by <a href="https://console.hyperstack.cloud/?utm_campaign=Influencers&utm_source=Aleksa%20Gordi%C4%87">Hyperstack</a>). And many more GPUs now at P-1 AI. :)
 </p>
 
 <p align="left">
