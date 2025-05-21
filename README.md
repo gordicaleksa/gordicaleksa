@@ -31,13 +31,6 @@ My older recent projects:
 * [Jarvis for images](https://twitter.com/gordic_aleksa/status/1723004221664972819)
 * [YouTube AI Buddy](https://www.youtube.com/watch?v=JTcEzsDms9g) (removed from Chrome store)
 
-
-<br>
-
-<a href="https://www.youtube.com/c/TheAiEpiphany" target="_blank">
-  <img src="https://github.com/gordicaleksa/gordicaleksa/blob/master/images/ai_epiphany_banner_new.png" alt="The AI Epiphany banner" width="100%"/>
-</a>
-
 <!--
 **gordicaleksa/gordicaleksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
