@@ -1,7 +1,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleksagordic/) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/gordic_aleksa) [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/TheAiEpiphany) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/peBrCpheKE) [<img src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://gordicaleksa.com/) [<img src="https://img.shields.io/badge/ai_newsletter-%23ff6819.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://aiepiphany.substack.com/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gordicaleksa)
 
 <p align="center">
-Cofounder / Head of AI at <a href="https://p-1.ai/">P-1 AI</a> ( <a href="https://p-1.ai/">i'm hiring</a>, join us to help us build Dyson spheres)<br/><br/>
+Cofounder / Head of AI at P-1 AI<br/><br/>
 I'm an ex Research Engineer at Google DeepMind & Microsoft. I run the 'The AI Epiphany' community. I'm also a proud father of 16 H100s (generously sponsored by <a href="https://console.hyperstack.cloud/?utm_campaign=Influencers&utm_source=Aleksa%20Gordi%C4%87">Hyperstack</a>). And many more GPUs now at P-1 AI. :)
 </p>
 
