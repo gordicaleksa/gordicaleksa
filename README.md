@@ -1,18 +1,12 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleksagordic/) [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/gordic_aleksa) [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/TheAiEpiphany) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/peBrCpheKE) [<img src="https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://gordicaleksa.com/) [<img src="https://img.shields.io/badge/ai_newsletter-%23ff6819.svg?&style=for-the-badge&logo=substack&logoColor=white" />](https://aiepiphany.substack.com/) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gordicaleksa)
 
 <p align="center">
-Cofounder / Head of AI at P-1 AI<br/><br/>
-I'm an ex Research Engineer at Google DeepMind & Microsoft. I run the 'The AI Epiphany' community. I'm also a proud father of 16 H100s (generously sponsored by <a href="https://console.hyperstack.cloud/?utm_campaign=Influencers&utm_source=Aleksa%20Gordi%C4%87">Hyperstack</a>). And many more GPUs now at P-1 AI. :)
+I'm an ex Research Engineer at Google DeepMind & Microsoft. I run the 'The AI Epiphany' community. I'm also a proud father of 16 H100s (generously sponsored by <a href="https://console.hyperstack.cloud/?utm_campaign=Influencers&utm_source=Aleksa%20Gordi%C4%87">Hyperstack</a>).
 </p>
 
 <p align="left">
-  More on P-1 AI:<br/>
- * <a href="https://fortune.com/article/startup-ai-funding-starship-google-deepmind-airbus-veterans/">Exclusive: What If AI could design a jet engine—or even a starship? Google DeepMind and Airbus veterans just raised $23M with an eye on that future<a/><br/>
- * <a href="https://www.businesswire.com/news/home/20250425073932/en/P-1-AI-Comes-Out-of-Stealth-Aims-to-Build-Engineering-AGI-for-Physical-Systems">P-1 AI Comes Out of Stealth, Aims to Build Engineering AGI for Physical Systems</a>
-</p>
-
-<p align="left">
-Highlights:<br/>
+Recent Highlights:<br/>
+  * I co-founded a startup called P-1 AI: <a href="https://fortune.com/article/startup-ai-funding-starship-google-deepmind-airbus-veterans/">Exclusive: What If AI could design a jet engine—or even a starship? Google DeepMind and Airbus veterans just raised $23M with an eye on that future<a/><br/>
   * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c" target="_blank">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a><br/>
 </p>
 
