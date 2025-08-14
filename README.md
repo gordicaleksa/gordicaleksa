@@ -6,7 +6,7 @@ I'm an ex Research Engineer at Google DeepMind & Microsoft. I run the 'The AI Ep
 
 <p align="left">
 Recent Highlights:<br/>
-  * I co-founded a startup called P-1 AI: <a href="https://fortune.com/article/startup-ai-funding-starship-google-deepmind-airbus-veterans/">Exclusive: What If AI could design a jet engine—or even a starship? Google DeepMind and Airbus veterans just raised $23M with an eye on that future<a/><br/>
+  * I previously co-founded a startup called P-1 AI: <a href="https://fortune.com/article/startup-ai-funding-starship-google-deepmind-airbus-veterans/">Exclusive: What If AI could design a jet engine—or even a starship? Google DeepMind and Airbus veterans just raised $23M with an eye on that future<a/><br/>
   * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c" target="_blank">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a><br/>
 </p>
 
