@@ -5,7 +5,8 @@ I'm an ex Research Engineer at Google DeepMind & Microsoft. I run the 'The AI Ep
 </p>
 
 <p align="left">
-Recent blog posts:<br/>
+Recent technical blog posts:<br/>
+* <a href="https://www.aleksagordic.com/blog/matmul">Inside NVIDIA GPUs: Anatomy of high performance matmul kernels</a><br/>
 * <a href="https://www.aleksagordic.com/blog/vllm">Inside vLLM: Anatomy of a High-Throughput LLM Inference System</a>
 
 <p align="left">
