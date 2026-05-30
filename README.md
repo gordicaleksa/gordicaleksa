@@ -6,11 +6,14 @@ I'm an ex Research Engineer at Google DeepMind & Microsoft. I run the 'The AI Ep
 
 <p align="left">
 Recent technical blog posts:<br/>
+ 
+* <a href="https://www.aleksagordic.com/blog/transformer">Inside the Transformer: The Life of a Token</a><br/>
 * <a href="https://www.aleksagordic.com/blog/matmul">Inside NVIDIA GPUs: Anatomy of high performance matmul kernels</a><br/>
 * <a href="https://www.aleksagordic.com/blog/vllm">Inside vLLM: Anatomy of a High-Throughput LLM Inference System</a>
 
 <p align="left">
 Recent Highlights:<br/>
+  * <a href="https://essential.ai/research/rnj-1">Rnj-1</a> and Rnj-1.5, strongest 8B USA LLM for code/STEM (as a tech lead at Ashish Vaswani's AI lab)<br/>
   * I previously co-founded a startup called P-1 AI: <a href="https://fortune.com/article/startup-ai-funding-starship-google-deepmind-airbus-veterans/">Exclusive: What If AI could design a jet engine—or even a starship? Google DeepMind and Airbus veterans just raised $23M with an eye on that future<a/><br/>
   * I'm one of 3 main devs on the <a href="https://github.com/karpathy/llm.c" target="_blank">llm.c</a> project led by <a href="https://x.com/karpathy">Andrej Karpathy</a><br/>
 </p>
